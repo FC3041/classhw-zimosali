@@ -1,0 +1,4 @@
+[submodule "professor_repo"]
+	path = professor_repo
+	url = https://github.com/hajihosseini/AP03042_Class.git
+	branch = main
